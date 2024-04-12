@@ -1,0 +1,351 @@
+﻿[17-01-23 13:40:35] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[17-01-23 13:40:35] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[17-01-23 13:40:37] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[17-01-23 13:40:37] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.5.2, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[17-01-23 13:40:37] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[17-01-23 13:40:37] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.5.2, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[17-01-23 13:40:37] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[17-01-23 13:40:37] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[17-01-23 13:40:37] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[17-01-23 13:40:37] info: Program: Finished Squirrel Updater
+[17-01-23 16:33:14] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[17-01-23 16:33:14] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[17-01-23 16:33:15] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[17-01-23 16:33:15] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.8.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[17-01-23 16:33:15] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[17-01-23 16:33:15] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.8.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[17-01-23 16:33:15] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[17-01-23 16:33:15] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[17-01-23 16:33:15] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[17-01-23 16:33:15] info: Program: Finished Squirrel Updater
+[15-03-23 18:37:18] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[15-03-23 18:37:18] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[15-03-23 18:37:20] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[15-03-23 18:37:20] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.11.1, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[15-03-23 18:37:21] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[15-03-23 18:37:21] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.11.1, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[15-03-23 18:37:21] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[15-03-23 18:37:21] info: Program: Finished Squirrel Updater
+[15-04-23 10:36:26] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[15-04-23 10:36:26] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[15-04-23 10:36:27] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[15-04-23 10:36:28] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.12.13, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[15-04-23 10:36:28] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[15-04-23 10:36:28] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.12.13, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[15-04-23 10:36:28] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[15-04-23 10:36:28] info: Program: Finished Squirrel Updater
+[19-04-23 10:35:35] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[19-04-23 10:35:35] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[19-04-23 10:35:37] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[19-04-23 10:35:37] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.13.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[19-04-23 10:35:37] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[19-04-23 10:35:37] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.13.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[19-04-23 10:35:37] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[19-04-23 10:35:37] info: Program: Finished Squirrel Updater
+[16-05-23 11:59:29] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[16-05-23 11:59:29] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[16-05-23 11:59:32] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[16-05-23 11:59:32] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.13.6, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[16-05-23 11:59:32] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[16-05-23 11:59:32] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.13.6, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[16-05-23 11:59:32] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[16-05-23 11:59:32] info: Program: Finished Squirrel Updater
+[17-05-23 10:30:07] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[17-05-23 10:30:07] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[17-05-23 10:30:08] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[17-05-23 10:30:09] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.14.2, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[17-05-23 10:30:09] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[17-05-23 10:30:09] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.14.2, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[17-05-23 10:30:09] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[17-05-23 10:30:09] info: Program: Finished Squirrel Updater
+[16-06-23 10:34:03] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[16-06-23 10:34:03] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[16-06-23 10:34:04] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[16-06-23 10:34:05] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.15.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[16-06-23 10:34:05] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[16-06-23 10:34:05] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.15.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[16-06-23 10:34:05] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[16-06-23 10:34:05] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[16-06-23 10:34:05] info: Program: Finished Squirrel Updater
+[18-07-23 15:22:06] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[18-07-23 15:22:07] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[18-07-23 15:22:07] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[18-07-23 15:22:07] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.16.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[18-07-23 15:22:07] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[18-07-23 15:22:07] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.16.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[18-07-23 15:22:07] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[18-07-23 15:22:08] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[18-07-23 15:22:08] info: ApplyReleasesImpl: Examining Pin: XAMPP Control Panel.lnk
+[18-07-23 15:22:08] info: Program: Finished Squirrel Updater
+[14-08-23 10:50:01] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[14-08-23 10:50:01] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[14-08-23 10:50:01] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[14-08-23 10:50:02] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.17.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[14-08-23 10:50:02] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[14-08-23 10:50:02] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.17.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[14-08-23 10:50:02] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[14-08-23 10:50:02] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[14-08-23 10:50:02] info: ApplyReleasesImpl: Examining Pin: MongoDBCompass.lnk
+[14-08-23 10:50:02] info: ApplyReleasesImpl: Examining Pin: Visual Studio Code.lnk
+[14-08-23 10:50:02] info: ApplyReleasesImpl: Examining Pin: XAMPP Control Panel.lnk
+[14-08-23 10:50:02] info: Program: Finished Squirrel Updater
+[23-08-23 18:38:43] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[23-08-23 18:38:43] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[23-08-23 18:38:45] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[23-08-23 18:38:45] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.17.3, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[23-08-23 18:38:45] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[23-08-23 18:38:45] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.17.3, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[23-08-23 18:38:45] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[23-08-23 18:38:45] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[23-08-23 18:38:45] info: ApplyReleasesImpl: Examining Pin: MongoDBCompass.lnk
+[23-08-23 18:38:45] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[23-08-23 18:38:46] info: ApplyReleasesImpl: Examining Pin: Visual Studio Code.lnk
+[23-08-23 18:38:46] info: ApplyReleasesImpl: Examining Pin: XAMPP Control Panel.lnk
+[23-08-23 18:38:46] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\DELL\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[23-08-23 18:38:46] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[23-08-23 18:38:46] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[23-08-23 18:38:46] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[23-08-23 18:38:46] info: ApplyReleasesImpl: Finished shortcut successfully
+[23-08-23 18:38:46] info: Program: Finished Squirrel Updater
+[29-08-23 10:38:02] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[29-08-23 10:38:02] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[29-08-23 10:38:03] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[29-08-23 10:38:03] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.17.4, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[29-08-23 10:38:03] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[29-08-23 10:38:03] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.17.4, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[29-08-23 10:38:03] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[29-08-23 10:38:04] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[29-08-23 10:38:04] info: ApplyReleasesImpl: Examining Pin: MongoDBCompass.lnk
+[29-08-23 10:38:04] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[29-08-23 10:38:04] info: ApplyReleasesImpl: Examining Pin: Visual Studio Code.lnk
+[29-08-23 10:38:04] info: ApplyReleasesImpl: Examining Pin: XAMPP Control Panel.lnk
+[29-08-23 10:38:04] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\DELL\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[29-08-23 10:38:04] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[29-08-23 10:38:04] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[29-08-23 10:38:04] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[29-08-23 10:38:04] info: ApplyReleasesImpl: Finished shortcut successfully
+[29-08-23 10:38:04] info: Program: Finished Squirrel Updater
+[16-09-23 10:13:54] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[16-09-23 10:13:54] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[16-09-23 10:13:55] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[16-09-23 10:13:56] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.18.1, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[16-09-23 10:13:56] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[16-09-23 10:13:56] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.18.1, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[16-09-23 10:13:56] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[16-09-23 10:13:56] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[16-09-23 10:13:56] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[16-09-23 10:13:56] info: ApplyReleasesImpl: Examining Pin: Visual Studio Code.lnk
+[16-09-23 10:13:56] info: ApplyReleasesImpl: Examining Pin: XAMPP Control Panel.lnk
+[16-09-23 10:13:56] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\DELL\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[16-09-23 10:13:56] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[16-09-23 10:13:56] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[16-09-23 10:13:56] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[16-09-23 10:13:56] info: ApplyReleasesImpl: Finished shortcut successfully
+[16-09-23 10:13:56] info: Program: Finished Squirrel Updater
+[18-09-23 10:42:37] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[18-09-23 10:42:37] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[18-09-23 10:42:38] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[18-09-23 10:42:39] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.18.2, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[18-09-23 10:42:39] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[18-09-23 10:42:39] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.18.2, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[18-09-23 10:42:39] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[18-09-23 10:42:39] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[18-09-23 10:42:39] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[18-09-23 10:42:39] info: ApplyReleasesImpl: Examining Pin: Visual Studio Code.lnk
+[18-09-23 10:42:40] info: ApplyReleasesImpl: Examining Pin: XAMPP Control Panel.lnk
+[18-09-23 10:42:40] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\DELL\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[18-09-23 10:42:40] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[18-09-23 10:42:40] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[18-09-23 10:42:40] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[18-09-23 10:42:40] info: ApplyReleasesImpl: Finished shortcut successfully
+[18-09-23 10:42:40] info: Program: Finished Squirrel Updater
+[20-09-23 10:45:26] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[20-09-23 10:45:27] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[20-09-23 10:45:28] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[20-09-23 10:45:29] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.18.3, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[20-09-23 10:45:29] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[20-09-23 10:45:29] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.18.3, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[20-09-23 10:45:29] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[20-09-23 10:45:29] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[20-09-23 10:45:29] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[20-09-23 10:45:30] info: ApplyReleasesImpl: Examining Pin: Visual Studio Code.lnk
+[20-09-23 10:45:30] info: ApplyReleasesImpl: Examining Pin: XAMPP Control Panel.lnk
+[20-09-23 10:45:30] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\DELL\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[20-09-23 10:45:30] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[20-09-23 10:45:30] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[20-09-23 10:45:30] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[20-09-23 10:45:30] info: ApplyReleasesImpl: Finished shortcut successfully
+[20-09-23 10:45:30] info: Program: Finished Squirrel Updater
+[22-09-23 10:34:23] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[22-09-23 10:34:23] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[22-09-23 10:34:24] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[22-09-23 10:34:25] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.18.4, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[22-09-23 10:34:25] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[22-09-23 10:34:25] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.18.4, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[22-09-23 10:34:25] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[22-09-23 10:34:25] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[22-09-23 10:34:25] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[22-09-23 10:34:25] info: ApplyReleasesImpl: Examining Pin: Visual Studio Code.lnk
+[22-09-23 10:34:25] info: ApplyReleasesImpl: Examining Pin: XAMPP Control Panel.lnk
+[22-09-23 10:34:25] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\DELL\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[22-09-23 10:34:25] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[22-09-23 10:34:25] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[22-09-23 10:34:25] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[22-09-23 10:34:25] info: ApplyReleasesImpl: Finished shortcut successfully
+[22-09-23 10:34:25] info: Program: Finished Squirrel Updater
+[26-09-23 10:32:50] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[26-09-23 10:32:51] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[26-09-23 10:32:52] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[26-09-23 10:32:52] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.18.6, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[26-09-23 10:32:52] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[26-09-23 10:32:52] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.18.6, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[26-09-23 10:32:52] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[26-09-23 10:32:52] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[26-09-23 10:32:52] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[26-09-23 10:32:53] info: ApplyReleasesImpl: Examining Pin: Visual Studio Code.lnk
+[26-09-23 10:32:53] info: ApplyReleasesImpl: Examining Pin: XAMPP Control Panel.lnk
+[26-09-23 10:32:53] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\DELL\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[26-09-23 10:32:53] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[26-09-23 10:32:53] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[26-09-23 10:32:53] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[26-09-23 10:32:53] info: ApplyReleasesImpl: Finished shortcut successfully
+[26-09-23 10:32:53] info: Program: Finished Squirrel Updater
+[26-09-23 12:15:37] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[26-09-23 12:15:37] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[26-09-23 12:15:38] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[26-09-23 12:15:39] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.18.7, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[26-09-23 12:15:39] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[26-09-23 12:15:39] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.18.7, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[26-09-23 12:15:39] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[26-09-23 12:15:39] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[26-09-23 12:15:39] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[26-09-23 12:15:39] info: ApplyReleasesImpl: Examining Pin: Visual Studio Code.lnk
+[26-09-23 12:15:39] info: ApplyReleasesImpl: Examining Pin: XAMPP Control Panel.lnk
+[26-09-23 12:15:39] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\DELL\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[26-09-23 12:15:39] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[26-09-23 12:15:39] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[26-09-23 12:15:39] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[26-09-23 12:15:39] info: ApplyReleasesImpl: Finished shortcut successfully
+[26-09-23 12:15:39] info: Program: Finished Squirrel Updater
+[05-10-23 10:43:48] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[05-10-23 10:43:48] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[05-10-23 10:43:50] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[05-10-23 10:43:50] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.18.10, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[05-10-23 10:43:50] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[05-10-23 10:43:50] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.18.10, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[05-10-23 10:43:50] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[05-10-23 10:43:50] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[05-10-23 10:43:50] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[05-10-23 10:43:50] info: ApplyReleasesImpl: Examining Pin: Visual Studio Code.lnk
+[05-10-23 10:43:50] info: ApplyReleasesImpl: Examining Pin: XAMPP Control Panel.lnk
+[05-10-23 10:43:50] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\DELL\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[05-10-23 10:43:50] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[05-10-23 10:43:50] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[05-10-23 10:43:50] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[05-10-23 10:43:50] info: ApplyReleasesImpl: Finished shortcut successfully
+[05-10-23 10:43:50] info: Program: Finished Squirrel Updater
+[13-10-23 14:32:01] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[13-10-23 14:32:02] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[13-10-23 14:32:04] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[13-10-23 14:32:05] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.19.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[13-10-23 14:32:05] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[13-10-23 14:32:05] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.19.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[13-10-23 14:32:05] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[13-10-23 14:32:05] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[13-10-23 14:32:06] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[13-10-23 14:32:06] info: ApplyReleasesImpl: Examining Pin: Visual Studio Code.lnk
+[13-10-23 14:32:07] info: ApplyReleasesImpl: Examining Pin: XAMPP Control Panel.lnk
+[13-10-23 14:32:07] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\DELL\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[13-10-23 14:32:07] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[13-10-23 14:32:07] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[13-10-23 14:32:07] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[13-10-23 14:32:07] info: ApplyReleasesImpl: Finished shortcut successfully
+[13-10-23 14:32:07] info: Program: Finished Squirrel Updater
+[21-10-23 15:20:34] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[21-10-23 15:20:34] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[21-10-23 15:20:35] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[21-10-23 15:20:35] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.19.7, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[21-10-23 15:20:35] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[21-10-23 15:20:35] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.19.7, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[21-10-23 15:20:35] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[21-10-23 15:20:35] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[21-10-23 15:20:36] info: ApplyReleasesImpl: Examining Pin: MongoDBCompass.lnk
+[21-10-23 15:20:36] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[21-10-23 15:20:36] info: ApplyReleasesImpl: Examining Pin: Visual Studio Code.lnk
+[21-10-23 15:20:36] info: ApplyReleasesImpl: Examining Pin: XAMPP Control Panel.lnk
+[21-10-23 15:20:36] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\DELL\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[21-10-23 15:20:36] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[21-10-23 15:20:36] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[21-10-23 15:20:36] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[21-10-23 15:20:36] info: ApplyReleasesImpl: Finished shortcut successfully
+[21-10-23 15:20:36] info: Program: Finished Squirrel Updater
+[15-11-23 16:16:30] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[15-11-23 16:16:30] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[15-11-23 16:16:32] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[15-11-23 16:16:32] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.20.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[15-11-23 16:16:32] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[15-11-23 16:16:32] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.20.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[15-11-23 16:16:32] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[15-11-23 16:16:32] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[15-11-23 16:16:32] info: ApplyReleasesImpl: Examining Pin: MongoDBCompass.lnk
+[15-11-23 16:16:32] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[15-11-23 16:16:32] info: ApplyReleasesImpl: Examining Pin: Visual Studio Code.lnk
+[15-11-23 16:16:33] info: ApplyReleasesImpl: Examining Pin: XAMPP Control Panel.lnk
+[15-11-23 16:16:33] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\DELL\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[15-11-23 16:16:33] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[15-11-23 16:16:33] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[15-11-23 16:16:33] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[15-11-23 16:16:33] info: ApplyReleasesImpl: Finished shortcut successfully
+[15-11-23 16:16:33] info: Program: Finished Squirrel Updater
+[26-03-24 11:54:00] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[26-03-24 11:54:01] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[26-03-24 11:54:05] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[26-03-24 11:54:06] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.21.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[26-03-24 11:54:06] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[26-03-24 11:54:06] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.21.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[26-03-24 11:54:06] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[26-03-24 11:54:06] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[26-03-24 11:54:06] info: ApplyReleasesImpl: Examining Pin: MongoDBCompass.lnk
+[26-03-24 11:54:07] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[26-03-24 11:54:07] info: ApplyReleasesImpl: Examining Pin: Visual Studio Code.lnk
+[26-03-24 11:54:07] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\DELL\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[26-03-24 11:54:07] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[26-03-24 11:54:07] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[26-03-24 11:54:07] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[26-03-24 11:54:07] info: ApplyReleasesImpl: Finished shortcut successfully
+[26-03-24 11:54:07] info: Program: Finished Squirrel Updater
+[29-03-24 15:46:56] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[29-03-24 15:46:56] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[29-03-24 15:46:59] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[29-03-24 15:46:59] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.24.3, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[29-03-24 15:46:59] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[29-03-24 15:46:59] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.24.3, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[29-03-24 15:46:59] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[29-03-24 15:46:59] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[29-03-24 15:47:00] info: ApplyReleasesImpl: Examining Pin: MongoDBCompass.lnk
+[29-03-24 15:47:00] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[29-03-24 15:47:00] info: ApplyReleasesImpl: Examining Pin: Visual Studio Code.lnk
+[29-03-24 15:47:00] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\DELL\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[29-03-24 15:47:00] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[29-03-24 15:47:00] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[29-03-24 15:47:00] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[29-03-24 15:47:01] info: ApplyReleasesImpl: Finished shortcut successfully
+[29-03-24 15:47:01] info: Program: Finished Squirrel Updater
+[11-04-24 11:39:57] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[11-04-24 11:39:57] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\DELL\AppData\Local\Postman\
+[11-04-24 11:39:59] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[11-04-24 11:40:00] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.24.16, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[11-04-24 11:40:00] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\DELL\Desktop\Postman.lnk
+[11-04-24 11:40:01] info: ApplyReleasesImpl: About to save shortcut: C:\Users\DELL\Desktop\Postman.lnk (target C:\Users\DELL\AppData\Local\Postman\Postman.exe, workingDir C:\Users\DELL\AppData\Local\Postman\app-10.24.16, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[11-04-24 11:40:01] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[11-04-24 11:40:01] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[11-04-24 11:40:01] info: ApplyReleasesImpl: Examining Pin: Microsoft Office Outlook 2007.lnk
+[11-04-24 11:40:01] info: ApplyReleasesImpl: Examining Pin: MongoDBCompass.lnk
+[11-04-24 11:40:02] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[11-04-24 11:40:02] info: ApplyReleasesImpl: Examining Pin: Visual Studio Code.lnk
+[11-04-24 11:40:02] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\DELL\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[11-04-24 11:40:02] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[11-04-24 11:40:02] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[11-04-24 11:40:03] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\DELL\AppData\Local\Postman\Postman.exe'
+[11-04-24 11:40:03] info: ApplyReleasesImpl: Finished shortcut successfully
+[11-04-24 11:40:03] info: Program: Finished Squirrel Updater

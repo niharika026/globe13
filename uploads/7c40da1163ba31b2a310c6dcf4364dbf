@@ -1,0 +1,381 @@
+﻿[25-11-22 18:59:52] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.1.2/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[25-11-22 18:59:52] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.1.2/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[25-11-22 18:59:52] info: CheckForUpdateImpl: Generated new staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[25-11-22 18:59:52] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.1.2/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[25-11-22 18:59:53] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.1.2/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0&id=Postman&localVersion=10.1.2&arch=amd64
+[25-11-22 18:59:53] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.5.2-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.5.2-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.5.2-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[25-11-22 18:59:54] info: Program: Finished Squirrel Updater
+[17-01-23 13:40:44] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.5.2/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[17-01-23 13:40:44] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.5.2/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[17-01-23 13:40:44] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[17-01-23 13:40:44] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.5.2/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[17-01-23 13:40:45] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.5.2/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.5.2&arch=amd64
+[17-01-23 13:40:47] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.8.0-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.8.0-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.8.0-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[17-01-23 13:40:47] info: Program: Finished Squirrel Updater
+[13-03-23 11:14:43] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.8.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[13-03-23 11:14:43] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.8.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[13-03-23 11:14:43] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[13-03-23 11:14:44] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.8.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[13-03-23 11:14:44] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.8.0/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.8.0&arch=amd64
+[13-03-23 11:14:45] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.11.1-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.11.1-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.11.1-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[13-03-23 11:14:45] info: Program: Finished Squirrel Updater
+[14-04-23 10:38:44] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.11.1/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[14-04-23 10:38:44] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.11.1/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[14-04-23 10:38:44] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[14-04-23 10:38:44] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.11.1/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[14-04-23 10:38:44] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.11.1/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.11.1&arch=amd64
+[14-04-23 10:38:45] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.12.13-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.12.13-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.12.13-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[14-04-23 10:38:45] info: Program: Finished Squirrel Updater
+[18-04-23 10:37:35] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.12.13/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[18-04-23 10:37:35] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.12.13/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[18-04-23 10:37:36] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[18-04-23 10:37:36] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.12.13/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[18-04-23 10:37:36] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.12.13/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.12.13&arch=amd64
+[18-04-23 10:37:37] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.13.0-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.13.0-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.13.0-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[18-04-23 10:37:37] info: Program: Finished Squirrel Updater
+[15-05-23 10:25:35] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.13.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[15-05-23 10:25:35] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.13.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[15-05-23 10:25:36] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[15-05-23 10:25:36] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.13.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[15-05-23 10:25:37] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.13.0/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.13.0&arch=amd64
+[15-05-23 10:25:45] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.13.6-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.13.6-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.13.6-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[15-05-23 10:25:45] info: Program: Finished Squirrel Updater
+[16-05-23 11:59:44] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.13.6/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[16-05-23 11:59:44] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.13.6/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[16-05-23 11:59:44] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[16-05-23 11:59:44] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.13.6/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[16-05-23 11:59:45] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.13.6/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.13.6&arch=amd64
+[16-05-23 11:59:45] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.14.2-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.14.2-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.14.2-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[16-05-23 11:59:46] info: Program: Finished Squirrel Updater
+[15-06-23 15:51:00] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.14.2/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[15-06-23 15:51:00] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.14.2/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[15-06-23 15:51:01] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[15-06-23 15:51:01] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.14.2/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[15-06-23 15:51:01] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.14.2/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.14.2&arch=amd64
+[15-06-23 15:51:03] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.15.0-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.15.0-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.15.0-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[15-06-23 15:51:03] info: Program: Finished Squirrel Updater
+[18-07-23 12:31:25] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.15.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[18-07-23 12:31:25] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.15.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[18-07-23 12:31:26] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[18-07-23 12:31:26] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.15.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[18-07-23 12:31:28] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.15.0/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.15.0&arch=amd64
+[18-07-23 12:31:29] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.16.0-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.16.0-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.16.0-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[18-07-23 12:31:30] info: Program: Finished Squirrel Updater
+[11-08-23 11:33:37] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.16.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[11-08-23 11:33:37] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.16.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[11-08-23 11:33:37] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[11-08-23 11:33:38] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.16.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[11-08-23 11:33:38] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.16.0/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.16.0&arch=amd64
+[11-08-23 11:33:39] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.17.0-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.17.0-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.17.0-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[11-08-23 11:33:40] info: Program: Finished Squirrel Updater
+[23-08-23 13:11:44] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.17.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[23-08-23 13:11:44] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.17.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[23-08-23 13:11:44] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[23-08-23 13:11:45] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.17.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[23-08-23 13:11:46] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.17.0/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.17.0&arch=amd64
+[23-08-23 13:12:07] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.17.3-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.17.3-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.17.3-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[23-08-23 13:12:07] info: Program: Finished Squirrel Updater
+[28-08-23 10:32:06] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.17.3/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[28-08-23 10:32:06] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.17.3/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[28-08-23 10:32:08] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[28-08-23 10:32:09] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.17.3/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[28-08-23 10:32:10] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.17.3/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.17.3&arch=amd64
+[28-08-23 10:32:14] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.17.4-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.17.4-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.17.4-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[28-08-23 10:32:14] info: Program: Finished Squirrel Updater
+[15-09-23 14:03:51] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.17.4/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[15-09-23 14:03:52] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.17.4/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[15-09-23 14:03:52] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[15-09-23 14:03:52] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.17.4/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[15-09-23 14:03:53] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.17.4/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.17.4&arch=amd64
+[15-09-23 14:03:55] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.18.1-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.18.1-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.18.1-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[15-09-23 14:03:55] info: Program: Finished Squirrel Updater
+[16-09-23 10:14:39] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.18.1/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[16-09-23 10:14:39] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.18.1/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[16-09-23 10:15:58] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[16-09-23 10:16:38] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.18.1/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[16-09-23 10:17:54] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.18.1/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.18.1&arch=amd64
+[16-09-23 10:19:11] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.18.2-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.18.2-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.18.2-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[16-09-23 10:19:36] info: Program: Finished Squirrel Updater
+[19-09-23 15:55:53] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.18.2/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[19-09-23 15:55:53] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.18.2/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[19-09-23 15:55:53] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[19-09-23 15:55:54] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.18.2/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[19-09-23 15:55:54] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.18.2/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.18.2&arch=amd64
+[19-09-23 15:55:55] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.18.3-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.18.3-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.18.3-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[19-09-23 15:55:55] info: Program: Finished Squirrel Updater
+[21-09-23 10:43:01] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.18.3/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[21-09-23 10:43:02] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.18.3/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[21-09-23 10:43:02] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[21-09-23 10:43:02] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.18.3/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[21-09-23 10:43:02] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.18.3/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.18.3&arch=amd64
+[21-09-23 10:43:03] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.18.4-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.18.4-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.18.4-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[21-09-23 10:43:03] info: Program: Finished Squirrel Updater
+[25-09-23 10:50:50] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.18.4/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[25-09-23 10:50:50] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.18.4/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[25-09-23 10:50:51] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[25-09-23 10:50:51] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.18.4/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[25-09-23 10:50:52] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.18.4/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.18.4&arch=amd64
+[25-09-23 10:50:53] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.18.6-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.18.6-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.18.6-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[25-09-23 10:50:53] info: Program: Finished Squirrel Updater
+[26-09-23 10:42:17] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.18.6/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[26-09-23 10:42:17] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.18.6/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[26-09-23 10:42:18] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[26-09-23 10:42:18] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.18.6/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[26-09-23 10:42:19] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.18.6/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.18.6&arch=amd64
+[26-09-23 10:42:21] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.18.7-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.18.7-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.18.7-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[26-09-23 10:42:21] info: Program: Finished Squirrel Updater
+[04-10-23 11:07:06] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.18.7/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[04-10-23 11:07:06] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.18.7/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[04-10-23 11:07:06] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[04-10-23 11:07:07] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.18.7/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0
+[04-10-23 11:07:07] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.18.7/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.18.7&arch=amd64
+[04-10-23 11:07:09] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.18.10-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.18.10-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.18.10-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[04-10-23 11:07:09] info: Program: Finished Squirrel Updater
+[13-10-23 10:24:58] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.18.10/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474
+[13-10-23 10:24:58] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.18.10/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474
+[13-10-23 10:24:59] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[13-10-23 10:24:59] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.18.10/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474
+[13-10-23 10:24:59] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.18.10/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474&id=Postman-win64&localVersion=10.18.10&arch=amd64
+[13-10-23 10:25:01] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.19.0-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.19.0-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.19.0-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[13-10-23 10:25:01] info: Program: Finished Squirrel Updater
+[21-10-23 10:10:33] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.19.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474
+[21-10-23 10:10:33] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.19.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474
+[21-10-23 10:10:34] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[21-10-23 10:10:35] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.19.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474
+[21-10-23 10:10:38] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.19.0/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474&id=Postman-win64&localVersion=10.19.0&arch=amd64
+[21-10-23 10:10:42] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.19.7-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.19.7-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.19.7-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[21-10-23 10:10:42] info: Program: Finished Squirrel Updater
+[15-11-23 10:44:32] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.19.7/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474
+[15-11-23 10:44:32] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.19.7/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474
+[15-11-23 10:44:35] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[15-11-23 10:44:37] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.19.7/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474
+[15-11-23 10:44:39] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.19.7/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474&id=Postman-win64&localVersion=10.19.7&arch=amd64
+[15-11-23 10:44:41] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.20.0-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.20.0-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.20.0-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[15-11-23 10:44:43] info: Program: Finished Squirrel Updater
+[19-12-23 10:42:57] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.20.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474
+[19-12-23 10:42:58] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.20.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474
+[19-12-23 10:43:08] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[19-12-23 10:43:20] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.20.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474
+[19-12-23 10:43:33] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.20.0/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474&id=Postman-win64&localVersion=10.20.0&arch=amd64
+[19-12-23 10:43:45] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.21.0-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.21.0-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.21.0-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[19-12-23 10:43:45] info: Program: Finished Squirrel Updater
+[26-03-24 11:59:09] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.21.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474
+[26-03-24 11:59:09] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.21.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474
+[26-03-24 11:59:10] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[26-03-24 11:59:10] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.21.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474
+[26-03-24 11:59:12] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.21.0/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=26623062&syncEnabled=true&teamPlan=sync-free-3-trial&teamId=5658474&id=Postman-win64&localVersion=10.21.0&arch=amd64
+[26-03-24 11:59:14] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.24.3-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.24.3-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.24.3-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[26-03-24 11:59:15] info: Program: Finished Squirrel Updater
+[26-03-24 12:00:07] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.21.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[26-03-24 12:00:07] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.21.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[26-03-24 12:00:07] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[26-03-24 12:00:07] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.21.0/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[26-03-24 12:00:07] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.21.0/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.24.3&arch=amd64
+[26-03-24 12:00:08] info: Program: Finished Squirrel Updater
+[10-04-24 13:08:32] info: Program: Starting Squirrel Updater: --checkForUpdate https://dl.pstmn.io/update/WIN64/10.24.3/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[10-04-24 13:08:32] info: Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/10.24.3/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[10-04-24 13:08:32] info: CheckForUpdateImpl: Using existing staging user ID: fa3ded53-54e4-513e-b479-49bac5e946d4
+[10-04-24 13:08:33] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/10.24.3/stable?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[10-04-24 13:08:34] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/10.24.3/stable/RELEASES?installationId=0cbb6bcd-2f35-471a-bd3f-af10166acc88&userId=0&syncEnabled=false&teamPlan=&teamId=0&id=Postman-win64&localVersion=10.24.3&arch=amd64
+[10-04-24 13:08:36] warn: UpdateInfo: Couldn't get release notes for:Postman-win64-10.24.16-full.nupkg: System.IO.FileNotFoundException: Could not find file 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.24.16-full.nupkg'.
+File name: 'C:\Users\DELL\AppData\Local\Postman\packages\Postman-win64-10.24.16-full.nupkg'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at NuGet.ZipPackage.<>c__DisplayClass9_0.<.ctor>b__0()
+   at NuGet.ZipPackage.EnsureManifest()
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+[10-04-24 13:08:37] info: Program: Finished Squirrel Updater
