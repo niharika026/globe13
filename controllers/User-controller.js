@@ -17,6 +17,7 @@ export const getAllUser = async (req, res, next) => {
 
 export const submit = async (req, res, next) => {
   console.log(req.body)
+  console.log(req.file)
   const { name, email, contact, resume} = req.body;
   let existingUser;
   try {

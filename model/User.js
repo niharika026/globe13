@@ -12,14 +12,14 @@ const userSchema = new Schema({
         require: true,
         unique: true
     },
-    contact: {
+    number: {
         type: Number,
         require: true,
         minilength: 10 ,
     },
     resume: {
         type: String,
-        require: true,
+        require: false,
     },
     
 });
