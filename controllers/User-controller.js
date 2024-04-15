@@ -33,7 +33,7 @@ export const submit = async (req, res, next) => {
   const newUser = new User({
     name,
     email,
-    contact,
+    number,
     resume,
   });
 
