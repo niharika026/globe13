@@ -1,6 +1,5 @@
-import mongoose from "mongoose";
 
-const Schema = mongoose.Schema;
+import mongoose, { Schema } from "mongoose";
 
 const userSchema = new Schema({
     name: {
@@ -12,16 +11,16 @@ const userSchema = new Schema({
         require: true,
         unique: true
     },
-    number: {
+    phone: {
         type: Number,
         require: true,
-        minilength: 10 ,
+        unique: true
     },
     resume: {
-        type: String,
-        require: false,
+        type: String, //cloudinary url
+        require: true,
     },
-    
+
 });
 
-export default mongoose.model("User" , userSchema);
+export const User = mongoose.model("User", userSchema);
