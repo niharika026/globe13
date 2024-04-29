@@ -25,7 +25,7 @@ export const submit = async (req, res) => {
   if (!email) {
     return res.status(400).json({ message: "Email is required" })
   }
-  if (!phone) {
+  if (!phone) { 
     return res.status(400).json({ message: "Phone is required" })
   }
 
