@@ -1,5 +1,3 @@
-
-
 import { User } from '../model/User.js'
 import { uploadOnCloudinary } from '../utils/cloudinary.js';
 
