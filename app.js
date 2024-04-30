@@ -2,6 +2,7 @@
 import express from "express";
 import dotenv from "dotenv"
 import userRouter from "./routes/User-routes.js";
+import contactRouter from './routes/Contact-routes.js';
 import cors from "cors"
 import connectDB from "./db/index.js";
 
@@ -22,10 +23,10 @@ connectDB()
 
 //routes
 app.use("/api/v1", userRouter);
-// app.use("/api/UserContact", userRouter);
+app.use("/api/contact", contactRouter);
 
 
-
+  
 
 
 
