@@ -13,7 +13,6 @@ import mongoose, { Schema } from "mongoose";
     phone:{
         type: Number,
         require: true,
-        unique: true
     }
  })
 
